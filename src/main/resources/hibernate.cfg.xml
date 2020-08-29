@@ -24,5 +24,9 @@
         <mapping class="com.pawel.wojtanka.model.MovieCopy"/>
         <mapping class="com.pawel.wojtanka.model.MovieInfo"/>
         <mapping class="com.pawel.wojtanka.model.Rent"/>
+        <mapping class="com.pawel.wojtanka.model.Email"/>
+        <mapping class="com.pawel.wojtanka.model.Message"/>
+        <mapping class="com.pawel.wojtanka.model.Book"/>
+        <mapping class="com.pawel.wojtanka.model.ComputerBook"/>
     </session-factory>
 </hibernate-configuration>
